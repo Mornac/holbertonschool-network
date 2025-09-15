@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Bash script that displays all active UDP ports (including the process name)
+netstat -an -p tcp
+netstat -an -p udp
