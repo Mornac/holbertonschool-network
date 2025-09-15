@@ -5,3 +5,12 @@ echo "Updating /etc/hosts file"
     echo "127.0.0.2 localhost"
     echo "8.8.8.8 facebook.com"
 } | sudo tee -a /etc/hosts
+
+# Restore the original /etc/hosts file
+echo "Restoring /etc/hosts file"
+sudo sed -i '/127.0.0.2 loclhost/d' /etc/hosts
+sudo sed -i '/8.8.8.8 facebook.com/d' /etc/hosts
+
+if ! grep -q "127.0.0.1 localhost" /etc/hosts; then
+    echo "127.0.0.1 localhost" | sudo tee -a /etc/hosts
+fi
