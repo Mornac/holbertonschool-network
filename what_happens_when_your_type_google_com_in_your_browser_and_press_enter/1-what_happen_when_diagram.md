@@ -1,6 +1,5 @@
-Task1 : https://www.linkedin.com/posts/ingrid-mornac-a01816a1_web-request-diagram-activity-7377323854387421185-NYZd?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWn7yEBFDYHJdVyZTBVxOiNYgvjlrBBU9o
-Task0:
-https://www.linkedin.com/pulse/what-happens-when-we-type-wwwgooglecom-our-browser-ingrid-mornac-fi8re
+Task1 : https://www.linkedin.com/posts/ingrid-mornac-a01816a1_web-request-diagram-activity-7377323854387421185-NYZd?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWn7yEBFDYHJdVyZTBVxOiNYgvjlrBBU9o  
+Task0: https://www.linkedin.com/pulse/what-happens-when-we-type-wwwgooglecom-our-browser-ingrid-mornac-fi8re
 
 ## What happens when we type www.google.com in our browser?
 It’s something we all do every day, sometimes dozens of times: open a browser, type an address like www.google.com. And presto, the page appears instantly on our phone or computer. 
@@ -39,7 +38,3 @@ To summarize the process:
 9. Display the page in our browser → Response and rendering.
 
 ![Web Request Diagram](https://raw.githubusercontent.com/Mornac/holbertonschool-network/main/what_happens_when_your_type_google_com_in_your_browser_and_press_enter/1-what_happen_when_diagram.jpg)
-
-
-https://www.linkedin.com/posts/ingrid-mornac-a01816a1_web-request-diagram-activity-7377323854387421185-NYZd?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWn7yEBFDYHJdVyZTBVxOiNYgvjlrBBU9o
-
