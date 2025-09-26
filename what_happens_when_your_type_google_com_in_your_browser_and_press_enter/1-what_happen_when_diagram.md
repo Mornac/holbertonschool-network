@@ -36,6 +36,4 @@ To summarize the process:
 8. Retrieve the information → Database query. 
 9. Display the page in our browser → Response and rendering.  
 
-![Web Request Diagram](https://raw.githubusercontent.com/Mornac/holbertonschool-network/blob/main/what_happens_when_your_type_google_com_in_your_browser_and_press_enter/1-what_happen_when_diagram.png.jpg)
-
-
+![Web Request Diagram](https://raw.githubusercontent.com/Mornac/holbertonschool-network/blob/main/what_happens_when_your_type_google_com_in_your_browser_and_press_enter/1-what_happen_when_diagram.jpg)
