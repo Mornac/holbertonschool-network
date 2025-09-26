@@ -1,3 +1,5 @@
+Task1 : https://www.linkedin.com/posts/ingrid-mornac-a01816a1_web-request-diagram-activity-7377323854387421185-NYZd?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWn7yEBFDYHJdVyZTBVxOiNYgvjlrBBU9o
+Task0:
 https://www.linkedin.com/pulse/what-happens-when-we-type-wwwgooglecom-our-browser-ingrid-mornac-fi8re
 
 ## What happens when we type www.google.com in our browser?
@@ -34,6 +36,10 @@ To summarize the process:
 6. Handle the HTTP request → Processing by the web server. 
 7. Apply the business logic → Application server. 
 8. Retrieve the information → Database query. 
-9. Display the page in our browser → Response and rendering.  
+9. Display the page in our browser → Response and rendering.
 
-![Web Request Diagram](https://raw.githubusercontent.com/Mornac/holbertonschool-network/blob/main/what_happens_when_your_type_google_com_in_your_browser_and_press_enter/1-what_happen_when_diagram.jpg)
+![Web Request Diagram](https://raw.githubusercontent.com/Mornac/holbertonschool-network/main/what_happens_when_your_type_google_com_in_your_browser_and_press_enter/1-what_happen_when_diagram.jpg)
+
+
+https://www.linkedin.com/posts/ingrid-mornac-a01816a1_web-request-diagram-activity-7377323854387421185-NYZd?utm_source=share&utm_medium=member_desktop&rcm=ACoAABWn7yEBFDYHJdVyZTBVxOiNYgvjlrBBU9o
+
